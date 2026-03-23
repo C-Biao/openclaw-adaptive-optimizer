@@ -1,8 +1,30 @@
 {
   "name": "openclaw-adaptive-optimizer",
   "version": "1.3.0",
+  "description": "Multi-provider RAG optimizer for OpenClaw. Automatically tunes chunking for Gemini, Claude, Grok, and Qwen.",
+  "main": "adaptive-optimizer.js",
   "type": "module",
-  "scripts": { "validate": "node --check adaptive-optimizer.js" },
-  "engines": { "node": ">=22.0.0" },
+  "engines": {
+    "node": ">=22.0.0",
+    "openclaw": ">=2026.3.13"
+  },
+  "scripts": {
+    "validate": "node --check adaptive-optimizer.js",
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/C-Biao/openclaw-adaptive-optimizer.git"
+  },
+  "keywords": [
+    "openclaw",
+    "rag",
+    "optimization",
+    "ai-agent",
+    "gemini",
+    "claude",
+    "multi-provider"
+  ],
+  "author": "Bill (SME/Architect)",
   "license": "MIT"
 }
