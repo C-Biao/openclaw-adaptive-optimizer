@@ -1,0 +1,7 @@
+{
+  "id": "openclaw-adaptive-optimizer",
+  "version": "1.3.0",
+  "description": "Multi-provider RAG tuning for OpenClaw.",
+  "permissions": ["fs:read", "memory:write", "agents:read", "auth:read"],
+  "engine": ">=2026.3.13"
+}
