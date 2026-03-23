@@ -1,1 +1,10 @@
 node_modules/\n*.log\n.DS_Store
+# Synology Metadata
+**/@eaDir/
+@eaDir/
+
+# Local Setup Scripts
+create_repo.sh
+
+# private env file
+.env
