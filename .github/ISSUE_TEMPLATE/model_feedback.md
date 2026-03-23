@@ -1,6 +1,6 @@
 ---
 name: "🤖 Model Feedback"
-about: Report RAG performance.
+about: Report RAG performance for a specific AI Provider/Model.
 ---
 **Model ID**:
-**Feedback**:
+**Feedback**: (Retrieval accuracy, context fragmentation, etc.)

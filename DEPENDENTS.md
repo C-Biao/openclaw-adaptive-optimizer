@@ -1,2 +1,2 @@
 # Ecosystem Dependents
-Optimized for Google Gemini 3.1 Pro/Flash, Anthropic Claude, x.ai, and Alibaba Qwen.
+This skill serves as a foundation for knowledge-heavy OpenClaw agents, ensuring data integrity across Gemini, Claude, and OpenRouter-proxied models.
