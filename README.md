@@ -5,7 +5,7 @@
 # OpenClaw Adaptive Workspace Optimizer 🚀
 ![Version](https://img.shields.io/badge/OpenClaw-2026.3.13-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
-![CI](https://github.com/your-username/openclaw-adaptive-optimizer/actions/workflows/validate.yml/badge.svg)
+![CI](https://github.com/C-Biao/openclaw-adaptive-optimizer/actions/workflows/validate.yml/badge.svg)
 
 A zero-config, **Provider-Aware** RAG management skill. It monitors your workspace telemetry and applies the optimal chunking strategy based on your active AI provider's architecture (Gemini, Claude, Grok, Qwen, GPT-4o, etc.).
 
